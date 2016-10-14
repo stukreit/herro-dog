@@ -1,2 +1,2 @@
 # herro-dog
-say hello
+Hi, this is my run through the github tutorial. There is no dog here.
